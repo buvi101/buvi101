@@ -1,7 +1,8 @@
 ![logo](https://github.com/buvi101/buvi101/blob/main/Github%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Bhuwan prasad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right"alt="coding"width="400"src="https://img.freepik.com/premium-photo/boy-with-computer-dark_1296426-3548.jpg"
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-photo/boy-with-computer-dark_1296426-3548.jpg" style="border-radius: 10px;">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buvi101&label=Profile%20views&color=0e75b6&style=flat" alt="buvi101" /> </p>
 
 - 🌱 I’m currently learning **React js**
