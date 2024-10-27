@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bhuwan prasad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/3573566/screenshots/14509732/media/00ed4da4b643e67738a3ab402df90a24.gif">
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/3573566/screenshots/14509732/media/00ed4da4b643e67738a3ab402df90a24.gif">
 
 - 🌱 I’m currently learning **React js**
 
