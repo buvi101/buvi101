@@ -1,3 +1,4 @@
+<body style="background-color: black; color: white;">
 ![logo](https://github.com/buvi101/buvi101/blob/main/Github%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Bhuwan prasad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -29,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buvi101&show_icons=true&locale=en&bg_color=1a1a1a&text_color=ffffff&title_color=ffffff&icon_color=ffffff" alt="buvi101"></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buvi101&background=1a1a1a&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="buvi101"></p>
+</body>
