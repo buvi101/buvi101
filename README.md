@@ -1,4 +1,3 @@
-<div style="background-color: black; color: white; padding: 20px;">
 ![logo](https://github.com/buvi101/buvi101/blob/main/Github%20banner.jpg)
 <h1 align="center"> 𝓗𝓲  👋,𝓘'𝓪𝓶 𝓑𝓱𝓾𝔀𝓪𝓷 𝓹𝓻𝓪𝓼𝓪𝓭</h1>
 <h3 align="center"> 𝓐 𝓹𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓯𝓻𝓸𝓷𝓽𝓮𝓷𝓭 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝓯𝓻𝓸𝓶 𝓘𝓷𝓭𝓲𝓪</h3>
