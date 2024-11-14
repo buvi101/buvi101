@@ -1,5 +1,5 @@
 ![logo](https://github.com/buvi101/buvi101/blob/main/Github%20banner.jpg)
-<h1 align="center"> 𝓗𝓲  👋,𝓘' 𝓪𝓶 𝓑𝓱𝓾𝔀𝓪𝓷 𝓹𝓻𝓪𝓼𝓪𝓭</h1>
+<h1 align="center"> 𝓗𝓲  👋,𝓘'𝓪𝓶 𝓑𝓱𝓾𝔀𝓪𝓷 𝓹𝓻𝓪𝓼𝓪𝓭</h1>
 <h3 align="center"> 𝓐 𝓹𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓯𝓻𝓸𝓷𝓽𝓮𝓷𝓭 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝓯𝓻𝓸𝓶 𝓘𝓷𝓭𝓲𝓪</h3>
 
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/3573566/screenshots/14509732/media/00ed4da4b643e67738a3ab402df90a24.gif">
