@@ -4,13 +4,13 @@
 
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/3573566/screenshots/14509732/media/00ed4da4b643e67738a3ab402df90a24.gif">
 
-- 🌱 I’m currently learning **React js**
+- 🌱 𝘐𝘢𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 **𝑹𝒆𝒂𝒄𝒕 𝒋𝒔**
 
-- 📫 How to reach me **nandubuvi@gmail.com**
+- 📫 𝘏𝘰𝘸 𝘵𝘰 𝘳𝘦𝘢𝘤𝘩 𝘮𝘦 **𝒏𝒂𝒏𝒅𝒖𝒃𝒖𝒗𝒊@𝒈𝒎𝒂𝒊𝒍.𝒄𝒐𝒎**
 
-- 📄 Know about my experiences [https://bhuwanresume.my.canva.site/resume-wesite](https://bhuwanresume.my.canva.site/resume-wesite)
+- 📄 𝘒𝘯𝘰𝘸 𝘢𝘣𝘰𝘶𝘵 𝘮𝘺 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦𝘴 [https://bhuwanresume.my.canva.site/resume-wesite](https://bhuwanresume.my.canva.site/resume-wesite)
 
-- ⚡ Fun fact **I think I am boring guy**
+- ⚡ 𝘍𝘶𝘯 𝘧𝘢𝘤𝘵 **𝑰 𝒕𝒉𝒊𝒏𝒌 𝒊𝒂𝒎 𝒂 𝒃𝒐𝒓𝒊𝒏𝒈 𝒈𝒖𝒚**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
